@@ -12,7 +12,7 @@
     <schedules />
     <sequence keepgoing='false' strategy='node-first'>
       <command>
-        <exec>ip a</exec>
+        <exec>ll </exec>
       </command>
     </sequence>
     <uuid>df591a96-7059-4d6b-93ea-4ac85c1f7634</uuid>
